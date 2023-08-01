@@ -14,5 +14,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "ThrowTracker"
-include(":mobile")
-include(":wear")
+include(":app")
